@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vday/static/css/main.f9237381.css",
+    "main.js": "/Vday/static/js/main.c3a936f2.js",
+    "index.html": "/Vday/index.html",
+    "main.f9237381.css.map": "/Vday/static/css/main.f9237381.css.map",
+    "main.c3a936f2.js.map": "/Vday/static/js/main.c3a936f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9237381.css",
+    "static/js/main.c3a936f2.js"
+  ]
+}
