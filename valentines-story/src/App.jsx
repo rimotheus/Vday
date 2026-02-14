@@ -6,7 +6,7 @@ const config = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://res.cloudinary.com/ddccukyyk/video/upload/v1770996985/SZA_-_Snooze_Audio_Sv5yCzPCkv8_wastk9.mp3",
+        musicUrl: "s://res.cloudinary.com/ddccukyyk/video/upload/v1771077470/laufey_-_Promise_Lyrics_h23PksWDxQ4_hhrp4l.mp3",
         startText: "🎵 Play Music",
         stopText: "🔇 Stop Music",
         volume: 0.5
