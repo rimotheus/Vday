@@ -188,7 +188,7 @@ export default function ValentinesStory() {
 
                         <div className="video-container">
                             <iframe
-                                src="https://www.youtube.com/embed/_zF_-CoqOFw?si=41oQQ4ROPw5ckE_5" 
+                                src="" 
                                 title="Valentine's Story Part 1"
                                 frameBorder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -228,7 +228,7 @@ export default function ValentinesStory() {
 
                         <div className="video-container">
                             <iframe
-                                src="https://www.youtube.com/embed/MT2KQB0r950?si=ecpsv8z91asFq0HS"
+                                src=""
                                 title="Valentine's Story Part 2"
                                 frameBorder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
